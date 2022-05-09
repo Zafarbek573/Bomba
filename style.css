@@ -15,6 +15,9 @@ h1{
     color: rgb(0, 252, 67);
     padding-top: 70px;
     font-size: 100px;
+    text-transform: uppercase;
+    font-family: cursive;
+    font-style: italic;
 }
 p{
     color: #ffffff;
@@ -22,5 +25,4 @@ p{
     text-align: center;
     margin-top: 25px;
     font-family: cursive;
-
 }
